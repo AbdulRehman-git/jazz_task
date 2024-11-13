@@ -13,5 +13,5 @@ A simple RESTful API built with Flask and SQLAlchemy for managing user data. Thi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/flask-user-management-api.git
+   git clone https://github.com/AbdulRehman-git/jazz_task.git
    cd flask-user-management-api
